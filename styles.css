@@ -1,0 +1,40 @@
+body {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: 'Georgia', serif;
+    background-color: #F9F8C0;
+}
+
+h1 {
+    font-size: 20px;
+    text-align: left;
+}
+
+div {
+    background-color: gray;
+}
+
+img {
+    width: 100%;
+}
+
+.background-text-box {
+    background-color: #F9C0F4;
+}
+
+p {
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    font-size: 1em;
+}
+
+li {
+    padding: 5px 10px 5px 10px;
+    font-size: 1em;
+}
+
+h6 {
+    background-color: #C0F9F4;
+}
